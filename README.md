@@ -10,14 +10,14 @@ Having graduated in 2015, I'm ready for a fresh new challenge with a fresh new c
 
 #### Ruby/Rails
 
-Using the baseline Ruby/Rails skills taught at Makers I've contributed to a number of projects, both individually and within groups. Ruby is my go-to language, and has been great to learn with; I enjoy its intuitiveness, expressivity and its scope for simplicity.
+Using the baseline Ruby/Rails skills taught at Makers I've contributed to a number of projects, both individually and within groups. Ruby is my go-to language, and has been great to learn with; I enjoy the intuitiveness and expressivity of he language.
 
-- Started fresh with very basic Ruby, skilling up to produce full web apps in teams
+- Started with very basic Ruby, skilling up to produce full web apps in teams
 - Created a web front-and-back-end, registering businesses for an online checkin/treeplanting app. Implemented maps and visual data based on checkins [live on heroku here](https://treemo-dev.herokuapp.com/)
 
 #### Javascript
 
-I love the power of Javascript, and its flexibility. Whilse syntactically unforgiving, JS enables the kind of SPAs which are part of the reason I wanted to get into coding.
+I love the power of Javascript, and its flexibility. While syntactically unforgiving, JS enables the kind of SPAs which are part of the reason I wanted to get into making web apps.
 
 - Progressed from a simple pure Javascript thermostat app (https://polar-basin-3888.herokuapp.com/) to more interactive projects, using different JS-flavoured technologies (Angular, Node, Express etc)
 
@@ -27,7 +27,7 @@ Fully-fledged 'helper of people' with a number of interesting specializations:
 
 - Bug reporting - taking reports from within Airbnb CS, verifying and finding workarounds, and reporting true positives to the engineering team in SF
 - Online investigation - identifying bad actors on the site, problem solving, verifying user information across platforms
-- Strong soft skills, communication across teams as well as directly with the userbase - one often unfamiliar with (or daunted by) technology
+- Strong soft skills: communication across teams as well as directly with the userbase - one often unfamiliar with (or daunted by) technology
 - UX: helped spec out the admin section of ihateironing.com, bringing experience and knowledge of complex admin systems to the design of a much smaller concern
 - Assorted Zendesk wizardry
 
