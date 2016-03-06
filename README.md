@@ -28,19 +28,19 @@ Fully-fledged 'helper of people' with a number of interesting specializations:
 - Bug reporting - taking reports from within Airbnb CS, verifying and finding workarounds, and reporting true positives to the engineering team in SF
 - Online investigation - identifying bad actors on the site, problem solving, verifying user information across platforms
 - Strong soft skills, communication across teams as well as directly with the userbase - one often unfamiliar with (or daunted by) technology
-- UX - helped spec out the admin section of ihateironing.com bringing my experience and knowledge to the task of making navigation of the back end and CRM easier for the business users
+- UX: helped spec out the admin section of ihateironing.com, bringing experience and knowledge of complex admin systems to the design of a much smaller concern
 - Assorted Zendesk wizardry
 
 ## Education
 
 #### Makers Academy (April-July 2015)
 
-- Software Craftsmanship - OOP, SOLID, MVC, DDD
+- Software Craftsmanship - OOP, SOLID, MVC, BDD
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Fully TDD: Rspec, Jasmine
 - Version Control wth git
 - Taught a self-starting, undirected learning style with a an emphasis on problem-solving with code from Day One
-- Learnt to greet a stack trace with unbridled joy
+- Learned how to greet a stack trace with unbridled joy
 
 #### Middlesex University (1998 to 2001)
 
@@ -59,5 +59,5 @@ Fully-fledged 'helper of people' with a number of interesting specializations:
 **[ihateironing.com](http://www.ihateironing.com)** (London, January - April 2015)   
 - *Customer service (phone support, account management)*
   - Joined a team of just two people, working closely across the business
-  - Dealt with customers and business partners on a day-to-day basis, offering support and coordinating practical solutions to any offline issues that arose
+  - Dealt with customers and business partners on a day-to-day basis, offering support and coordinating practical solutions to any issues that arose from the platform
   - Helped launch v2 of the site (currently live), including working with a developer on rolling out a full admin feature-set, and manually testing the platform to get it launch-ready
